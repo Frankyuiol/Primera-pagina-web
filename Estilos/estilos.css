@@ -1,0 +1,23 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.carousel {
+  margin-top: 2%;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%;
+}
+
+.carousel-item img {
+  max-height: 100%;
+}
+
+.carousel-caption {
+  background: rgba(255, 255, 255, 0.507);
+}
+
+.carousel-item p {
+  font-size: 20px;
+}
